@@ -1,6 +1,3 @@
-Sure, here is the complete `README.md` file for your portfolio website:
-
-````markdown
 # Portfolio Website
 
 Welcome to my personal portfolio website. This project is built using React, Tailwind CSS, DaisyUI, Framer Motion, and EmailJS to showcase my projects, skills, and contact information.
