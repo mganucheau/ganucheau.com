@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.23cfdc19.css",
-    "main.js": "/static/js/main.f969250b.js",
-    "static/js/453.64d0eb95.chunk.js": "/static/js/453.64d0eb95.chunk.js",
-    "index.html": "/index.html",
-    "main.23cfdc19.css.map": "/static/css/main.23cfdc19.css.map",
-    "main.f969250b.js.map": "/static/js/main.f969250b.js.map",
-    "453.64d0eb95.chunk.js.map": "/static/js/453.64d0eb95.chunk.js.map"
+    "main.css": "/ganucheau.com/static/css/main.23cfdc19.css",
+    "main.js": "/ganucheau.com/static/js/main.2d191a49.js",
+    "static/js/453.64d0eb95.chunk.js": "/ganucheau.com/static/js/453.64d0eb95.chunk.js",
+    "index.html": "/ganucheau.com/index.html",
+    "main.23cfdc19.css.map": "/ganucheau.com/static/css/main.23cfdc19.css.map",
+    "main.2d191a49.js.map": "/ganucheau.com/static/js/main.2d191a49.js.map",
+    "453.64d0eb95.chunk.js.map": "/ganucheau.com/static/js/453.64d0eb95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23cfdc19.css",
-    "static/js/main.f969250b.js"
+    "static/js/main.2d191a49.js"
   ]
 }
