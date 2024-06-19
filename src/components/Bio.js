@@ -13,7 +13,7 @@ const Bio = () => (
                 </div>
                 <div className="grid grid-cols-1 gap-4 lg:col-span-6 lg:grid-cols-8">
                     <div className="col-span-1 mx-auto overflow-hidden lg:col-span-2 rounded-btn bg-base-100 h-fit w-fit">
-                        <img className=" scale-x-[-1]" src=" /images/matt.png" alt="matt" />
+                        <img className=" scale-x-[-1]" src={`${process.env.PUBLIC_URL}/images/matt.png`} alt="matt" />
                     </div>
                     <div className="col-span-1 p-10 leading-relaxed md:mx-12 lg:mx-0 md:text-md justify-content-start lg:col-span-6 bg-base-100 rounded-btn">
                         <p>{Blurb[0].description}</p>

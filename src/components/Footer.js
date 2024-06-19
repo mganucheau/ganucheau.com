@@ -1,6 +1,6 @@
 // src/components/Footer.js
 import React from 'react';
-import { FaReact, FaCoffee, FaHeart, FaLinkedinIn, FaGithubAlt, FaDribbble, FaSpotify } from "react-icons/fa";
+import { FaReact, FaCoffee, FaHeart, FaLinkedinIn, FaGithubAlt } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { SiBandcamp } from "react-icons/si";
 

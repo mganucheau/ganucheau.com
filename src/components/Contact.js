@@ -19,7 +19,7 @@ const Contact = () => {
               </div>
             </div>
             <div className="col-span-1 overflow-hidden border border-neutral opacity-80 md:col-span-3 lg:col-span-1 rounded-btn bg-neutral ">
-              <img src='/images/bg.webp' alt="" className="object-cover scale-150 rotate-60 -left-20" />
+              <img src='./images/bg.webp' alt="" className="object-cover scale-150 rotate-60 -left-20" />
             </div>
           </div>
         </div>
