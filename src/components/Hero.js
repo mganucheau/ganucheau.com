@@ -6,7 +6,7 @@ import { IoMailOutline } from "react-icons/io5";
 const Hero = () => {
   return (
     <section id="home" className="">
-      <div className="container grid grid-cols-1 gap-8 px-5 m-auto pt-36 lg:py-60 md:grid-cols-2 lg:grid-cols-5 md:px-10 lg:px-0 h-4/6">
+      <div className="container grid grid-cols-1 gap-8 px-5 m-auto pt-36 lg:py-60 md:grid-cols-2 lg:grid-cols-5 md:px-10 lg:px- h-4/6">
         <div className="col-span-3 my-auto space-y-10 md:col-span-2">
           <div className="space-y-4 text-neutral ">
             <h1 class="leading-tight  text-3xl">Hi, I'm</h1>
@@ -23,7 +23,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="w-full col-span-3 overflow-hidden border rounded-btn md:aspect-h-5 md:aspect-w-8 ">
-          <img className="object-cover scale-110 rotate-180 bg-neutral opacity-80 -left-25" src={`${process.env.PUBLIC_URL}/images/bg.webp`} alt="background pattern" />
+          <img className="object-cover scale-110 rotate-180 bg-neutral opacity-80 -left-25" src="../images/bg.webp" alt="backkground image" />
         </div>
       </div >
     </section >
